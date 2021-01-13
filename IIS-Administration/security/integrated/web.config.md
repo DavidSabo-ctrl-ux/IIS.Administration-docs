@@ -1,3 +1,10 @@
+<!-- Web.Config Configuration File -->
+
+<configuration>
+    <system.web>
+        <customErrors mode="Off"/>
+    </system.web>
+</configuration>
 ---
 title: Web.Config
 description: This article is deprecated as of IIS Administration 2.0.0.
